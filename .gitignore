@@ -1,1 +1,3 @@
-kjfkhje
+*.log
+/dir/
+static/dir
